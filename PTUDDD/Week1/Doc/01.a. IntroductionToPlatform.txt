@@ -1,0 +1,99 @@
+Lập trình hệ thống di động.
+
+	- Nền tảng android:
+		+ Một tập hợp các phần mềm cho thiết bị di động: 
+			+ Hệ điều hành, thư viện hệ thống,...
+
+		+ Android SDK cho viết ứng dụng:
+			+ Thư viện và các công cụ lập trình.
+			+ Rất nhiều tài liệu (https://developer.android.com/guide).
+
+		+ Kiến trúc android:
+			+ Linux kernel - Standard services.
+			+ Android runtime.
+			+ Libraries.
+			+ Application framework.
+			+ Applications.
+		
+		+ Nền tảng linux và các dịch vụ tiêu chuẩn:
+			+ Bảo mật.
+			+ Bộ nhớ và quản lý quy trình.
+			+ File và mạng.
+			+ Drivers.
+			+ Quản lý năng lượng.
+			+ Chia sẻ bộ nhớ trong android.
+			+ Xử lý khi bộ nhớ thấp.
+			+ Giao tiếp liên tiến trình.
+			
+		+ Thư viện:
+			+ Hệ thống thư viện C: bionic libc
+			+ Webkit: công cụ trình duyệt.
+			+ Surace Mgr: hiển thị, quản lý.
+			+ Framework đa phương tiện: audio/video.
+			+ OpenGL: công cụ đồ họa.
+			+ SQLite: quan hệ, công cụ.
+
+		+ Android runtime:
+			+ Hai thành phần chính:
+			+ Core java libraries.
+				- Các lớp java cơ bản.
+				- Vòng đới ứng dụng.
+				- Internet, dịch vụ web.
+				- Unit testing.
+	
+			+ Dalvik virtual machine (các ứng dụng được thực thi bởi Dalvik virtual machine):
+				- Quy trình làm việc điển hình:
+					- Ứng dụng viết bằng java.
+					- Biên dịch sang java bytecode.
+					- Chuyển các file java bytecode thành một file dex bytecode duy nhất.
+					- Dalvil thực thi file dex
+				
+				- Được thiết kế cho các môi trường hạn chế tài nguyên:
+					- Cpu chậm.
+					- Ít ram.
+					- tuổi thọ pin hạn chế.
+
+		+ Application framework:
+			+ Package manager:
+				- Theo dõi các gói ứng dụng trên thiết bị.
+			
+			+ Window manager:
+				- Quản lý cửa sổ bao gồm một ứng dụng.
+			
+			+ View system:
+				- Cung cấp các yếu tố giao diện chung: buttons, textviews...
+			
+			+ Resource manager:
+				- Quản lý các tài nguyên không bị biên dịch: layout files, grapics...
+
+			+ Activity manager:
+				- Quản lý vòng đời ứng dụng và ngăn xếp điều hướng.
+
+			+ Contentprovider:
+				- Chia sẻ dữ liệu liên ứng dụng.
+
+				
+			+ Locationmanager:
+				- Cung cấp vị trí và thông tin di chuyển.
+
+			+ Notificationmanager:
+				- Vị trí của icons trong thanh trạng thái khi có sự kiện quan trọng xảy ra.
+
+		+ Application:
+			+ Bao gồn các ứng dụng tiêu chuẩn:
+				- Home: màn hình chính.
+				- Contacts: kết nối database.
+				- Phone: quay số điện thoại.
+				- Browser: xem các trang web.
+				- Email reader: viết và đọc email
+
+			+ Những ứng dụng này không có gì đặc biệt.
+			+ Có thể sử dụng các ứng dụng khác để thay thế.
+			
+			
+
+
+
+					
+
+			
