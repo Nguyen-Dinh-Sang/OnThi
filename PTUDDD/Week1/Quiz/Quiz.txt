@@ -1,0 +1,209 @@
+Question 1:
+	E: The Android Platform comprises several components. Which of the following did I NOT say was part of the Android Platform?
+		- Software Developers Kit.
+		- Documentation.
+		- Network protocol analyzers.
+		- Software Stack.
+
+  	V: Nền tảng android có một số thành phần. Đâu là thành phần không phải của nên tảng android ?
+		- Bộ công cụ phát triển phần mềm.
+		- Tài liệu.
+		- Máy phân tích giao thức mạng.
+		- Ngăn xếp ứng dụng.
+	
+	Answer: Network protocol analyzers.
+
+Question 2:
+	E: (True or False): Android Virtual Devices can be created to mimic specific physical devices, such as a Nexus One, or a Galaxy Nexus tablet ?
+		- True.
+		- False.
+
+	V: Các thiết bị android ảo được tạo ra để bắt chước các thiết bị vật lý, như: Nexus one, Galaxy Nexus.
+		- Đúng.
+		- Sai.
+
+	Answer: True.
+
+Question 3:
+	E: (True or False): Some Android applications depend on recent Java features, such as the try-with-resources statement.
+	   Therefore, it is important to make sure that you've installed the latest version of Java in your development environment.
+		- True.
+		- False.
+
+	V: Một số ứng dụng android phụ thuộc vào các tính năng gần đây của java. Như là... Vì thế bạn cần phải cài đặt phiên bản java mới nhất cho môi trường phát triển của bạn.
+		- Đúng.
+		- Sai.
+
+	Answer: False.
+
+Question 4:
+	E: (True or False): The Traceview tool automatically collects and displays line coverage information when you run Junit test cases on your Android applications.
+		- True.
+		- False.
+
+	V: Công cụ Traceview tự động thu thập và hiển thị các thông tin khi bạn kiểm tra các trường hợp trên ứng dụng của bạn.
+		- Đúng.
+		- Sai.
+	
+	Answer: False.
+
+Question 5:
+	E: (True or False): Android emulators can be controlled externally via a telnet session.
+		- True.
+		- False.
+
+	V: Có thể điều khiển máy ảo từ bên ngoài thông qua mạng.
+		- Đúng.
+		- Sai.
+
+	Answer: True.
+
+Question 6:
+	E: (True or False): Eclipse is the IDE of choice for Android. Other IDEs won't provide all the Android development tools that Eclipse does.
+		- True.
+		- False.
+	
+	V: Eclipse là IDE được chọn để lập trình android. Những IDE khác sẻ không cung cấp đầy đủ các công cụ để phát triển android như Eclipse.
+		- Đúng.
+		- Sai.
+
+	Answer: False.
+
+Question 7:
+	E: Android's Linux Kernel is not exactly the same as the Linux Kernels typically running on desktop machines. Why would Android modify the Linux Kernel for Android?
+		- To support new types of graphical user interfaces.
+		- Mobile devices require features not usually needed on traditional desktop devices.
+		- To create competing kernel APIs
+
+	V: Nhân linux của android không hoàn toàn giống nhân linux thông thường chạy trên destop. Tại sao android lại tạo nhân linux cho riêng mình ?
+		- Để hỗ trợ các loại dao diện người dùng mới.
+		- Thiết bị di động yêu cầu những đặc trưng khác so với desktop.
+		- Để tạo ra sự cạnh tranh trong nhân APIs.
+		
+	Answer: Mobile devices require features not usually needed on traditional desktop devices. 
+
+Question 8:
+	E: In which of the following programming languages are Android's Native libraries typically written?
+		- Python.
+		- Scala.
+		- C/C++.
+		- Java.
+
+	V: Các thư viện tự nhiên của android dc viết bằng ngôn ngữ gì.
+
+	Answer: C/C++
+
+Question 9:
+	E: The Resource Manager helps with internationalizing applications. Which of the following might explain why that's important to Android developers?
+		- Android phones and applications are sold to and used by people who speak languages other than English.
+		- Android applications might crash if they expected an English string, but got a Chinese character instead.
+		- US law requires English as the official language of mobile applications.
+
+	V: Resource manager giúp quản lý tài nguyên giúp quốc tế hóa ứng dụng. Tại sao điều đó quan trọng với các nhà phát triển.
+		- Điện thoại android được bán cho nhiều người và những người nói các ngôn ngữ khác nhau.
+		- Ứng dụng android có thể sụp đổ nếu chỉ dùng mỗi tiếng anh nhưng có một kí tự trung quốc được thay thế.
+		- Luật pháp Hoa Kỳ yêu cầu tiếng anh là ngôn ngữ chính trên ứng dụng di động.
+
+	Answer: Android phones and applications are sold to and used by people who speak languages other than English.
+
+Question 10:
+	E: Which of following kinds of information does the Location Manager provide to applications?	
+		- Ambient Temperature.
+		- The direction to Earth's magnetic north.
+		- User location.
+		- User movement. 
+
+	V: Location manager cung cấp gì cho ứng dụng ?
+		- Nhiệt độ môi trường.
+		- Hướng về phía bắc của trái đất.
+		- Vị trí của người dùng.
+		- Sự di chuyển của người dùng.
+
+	Answer:  - User location.
+		 - User movement.
+
+Question 11:
+	E: Which one of the following user interface elements 1) is found in the View System and 2)
+	was shown in the Phone application demonstrated in this week's lecture video? 
+	Note: If you want to get a peek at a bunch of Android's graphical user interface elements,
+	see: http://developer.android.com/design/building-blocks
+		- Tabs.
+		- Notification Bars.
+		- GridLists.
+
+	V: Thành phần giao diện nào đã được thể hiện trong bài giảng tuần này.
+		-
+		-
+		-
+
+	Answer: Tabs.
+
+Question 12:
+	E: Take a look at the following website: http://developer.android.com.
+	Which of the following statements best describes the purpose of this website?
+		- General Android information and documentation. 
+		- In-person networking.
+		- Question and answer forums.
+
+	V: Website http://developer.android.com có gì
+		- Tài liệu
+		- Kết nố trực tiếp.
+		- Forums.
+
+	Answer: General Android information and documentation.
+
+Question 13:
+	E: Take a look at the following website: http://stackoverflow.com/questions/tagged/android.
+	Which of the following statements best describes the purpose of this website?
+		- General Android information and documentation. 
+		- In-person networking.
+		- Question and answer forums.
+
+	V: Website http://stackoverflow.com/questions/tagged/android. có gì
+		- Tài liệu
+		- Kết nố trực tiếp.
+		- Forums.
+
+	Answer: Question and answer forums.
+
+Question 14:
+	E: Take a look at the following website: http://www.meetup.com/DC-Droids/.
+	Which of the following statements best describes the purpose of this website?
+		- General Android information and documentation. 
+		- In-person networking.
+		- Question and answer forums.
+
+	V: Website http://www.meetup.com/DC-Droids/. có gì
+		- Tài liệu
+		- Kết nố trực tiếp.
+		- Forums.
+
+	Answer: In-person networking.
+
+Question 15:
+	E: Take a look at the following website: https://groups.google.com/group/android-developers.
+	Which of the following statements best describes the purpose of this website?
+		- General Android information and documentation. 
+		- In-person networking.
+		- Question and answer forums.
+
+	V: Website https://groups.google.com/group/android-developers. có gì
+		- Tài liệu
+		- Kết nố trực tiếp.
+		- Forums.
+	
+	Answer: Question and answer forums.
+
+Question 16:
+	E: Take a look at the following website: http://android-developers.blogspot.com.
+	Which of the following statements best describes the purpose of this website?
+		- General Android information and documentation. 
+		- In-person networking.
+		- Question and answer forums.
+
+	V: Website http://android-developers.blogspot.com. có gì
+		- Tài liệu
+		- Kết nố trực tiếp.
+		- Forums.
+	
+	Answer: General Android information and documentation.
