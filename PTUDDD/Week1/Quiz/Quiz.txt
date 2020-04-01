@@ -147,7 +147,7 @@ Question 12:
 
 	V: Website http://developer.android.com có gì
 		- Tài liệu
-		- Kết nố trực tiếp.
+		- Kết nối trực tiếp.
 		- Forums.
 
 	Answer: General Android information and documentation.
@@ -161,7 +161,7 @@ Question 13:
 
 	V: Website http://stackoverflow.com/questions/tagged/android. có gì
 		- Tài liệu
-		- Kết nố trực tiếp.
+		- Kết nối trực tiếp.
 		- Forums.
 
 	Answer: Question and answer forums.
@@ -175,7 +175,7 @@ Question 14:
 
 	V: Website http://www.meetup.com/DC-Droids/. có gì
 		- Tài liệu
-		- Kết nố trực tiếp.
+		- Kết nối trực tiếp.
 		- Forums.
 
 	Answer: In-person networking.
@@ -189,7 +189,7 @@ Question 15:
 
 	V: Website https://groups.google.com/group/android-developers. có gì
 		- Tài liệu
-		- Kết nố trực tiếp.
+		- Kết nối trực tiếp.
 		- Forums.
 	
 	Answer: Question and answer forums.
@@ -203,7 +203,7 @@ Question 16:
 
 	V: Website http://android-developers.blogspot.com. có gì
 		- Tài liệu
-		- Kết nố trực tiếp.
+		- Kết nối trực tiếp.
 		- Forums.
 	
 	Answer: General Android information and documentation.
