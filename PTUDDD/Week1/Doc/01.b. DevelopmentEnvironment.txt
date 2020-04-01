@@ -1,0 +1,60 @@
+Môi trường phát triển Android:
+
+	- Nền tảng Android:
+		+ Một phần mền nhiều lớp để xây dựng và chạy ứng dụng di động.
+	
+	- Môi trường phát triển Android:
+		+ Là công cụ để bạn tạo ra ứng dụng Android.
+
+	- Chủ đề hôm nay:
+		+ Tải Android SDK.
+		+ Sử dụng Android Studio.
+		+ Sử dụng máy ảo Android.
+		+ Debugger.
+		+ Tìm hiểu các công cụ khác.
+
+	- Máy ảo Android:
+		+ Ưu điểm:
+			+ Không yêu cầu thiết bị thật.
+			+ Có thể cấu hình lại phần cứng.
+			+ Có thể thay đổi nhưng không bị hư hỏng.
+
+		+ Nhược điểm:
+			+ Rất chậm.
+			+ Thiếu một số chức năng.
+			+ Hiệu suất/ trải nghiệm người dùng có thể khác thực tế.
+		
+	- Tính năng nâng cao:
+		+ Có thể mô phỏng nhiều thiết bị khác nhau / những đặc trưng người dùng như:
+			+ Tốc độ mạng / độ trễ.
+			+ Năng lượng pin.
+			+ Vị trí tọa độ.
+
+		+ Giả lập các cuộc gọi đến và tin nhắn sms.
+		+ Có thể kết nối nhiều máy ảo với nhau.
+		+ Có rất nhiều tùy chọn.
+
+	- Debugger:
+		+ Các công cụ cho kiểm tra nội bộ.
+		+ Trạng thái chạy của ứng dụng.
+	
+	- Dịch vụ giám sát debug (DDMS):
+		+ Các công cụ chung để giám sát.
+		+ Các trạng thái, hoạt động của ứng dụng.
+		+ DDMS bao gồm:
+			+ File explorer.
+			+ Logcat.
+			+ Traceview.
+			+ Hierarchyview.
+			
+		+ Trace view:
+			+ Hiển thị biểu đồ được lấy ra từ quá trình chạy của ứng dụng.
+		
+		+ UI hierarchy viewer:
+			+ Hiển thị tổ chức thời gian chạy của giao diện người dùng.
+
+
+			
+	
+
+	
