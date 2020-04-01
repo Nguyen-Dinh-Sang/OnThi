@@ -1,0 +1,44 @@
+Layouts: là file xml, chứa android xml code.
+
+Values: là file xml, chứa android xml code.
+	- Animation Resources.
+	- Color State List Resources.
+	- Drawable Resources.
+	- Layout Resources.
+	- Menu Resources.
+	- String Resources.
+	- Style Resources.
+
+Drawables: là khái niệm chung cho các đồ họa được vẽ lên màn hình. Có nhiều loại drawables khác nhau.
+	- Bitmap file: (.png, .jpg or .gif).
+	- Nine - Patch: một file png có khả năng co dãn cho phép thay đổi kích thước hình ảnh dựa trên nội dung.
+	- Layer List: một drawables quản lý một list drawables. Chúng được vẽ theo thứ tự mạng. Phần tử có chỉ số lớn nhất được vẽ ở đầu.
+	- State List: tham chiếu bitmap khác nhau cho các trạng thái khác nhau.
+	- Level List: định nghĩa một drawables quản lý con số của các drawables khác. Mỗi cái được gán một giá trị tối đa.
+	- Transition Drawable: định nghĩa một drawable có thể thay đổi giữa 2 resources.
+	- Inset Drawable: định nghĩa một drawable có thể chèn một drawable khác bởi một chỉ định. Hữu ích khi cần xem một background drawables
+	- Clip Drawable: không dịch được kkk.
+	- Scale Drawable: định nghĩa một drawable có thể thay đổi kích thước.
+	- Shape Drawable: định nghĩa một drawable có dạng hình học kể cả màu và độ dốc.
+
+Một khi ứng dụng sẵn sàng thì có thể build project thành một file .apk và tải lên google play.
+
+Các bước tạo một project android:
+	- Mở Android studio lên.
+	- Chọn "Start a new Android Studio project".
+	- Chọn "Empty Activity" (sẻ có một activity trống ban đầu và mình không cần phải tạo activity nữa).
+	- Chọn "Next".
+	- Đặt tên cho project ở ô "Name".
+	- "Package name" tên phân biệt của ứng dụng khi tải lên google play, tạm thời thì không cần quan tâm.
+	- "Save location" vị trí lưu project (khi thay đổi vị trí mới nhớ \tên project vì android studio quên không tạo thư mục project, còn những lần sau thì sẻ tự tạo được không cần quan tâm nữa).
+	- "Language" chọn "Java".
+	- Minimum SDK (phiên bản android nhỏ nhất có thể cài đặt ứng dụng) thường thì 19, giang hồ đang dùng 21.
+	- Chọn "Finish".
+	- Chờ cho hệ thống build xong project.
+	- Fhift + F10 để chạy ứng dụng.
+	- Chờ...
+	- OK.
+
+*** Lưu ý:
+	- Khi tắt máy ảo sử dụng (X) như tắt cửa sổ bình thường.
+	- Khi tắt project vào file -> close project -> tắt android studio.
